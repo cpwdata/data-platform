@@ -1,0 +1,9 @@
+{
+	"name": "p28-7DataFactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21d02abe-c7a4-42e6-98d9-ee5ac1f0afb7",
+		"tenantId": "3f63dc03-109c-4947-8ac8-df14fd1af6da"
+	}
+}
