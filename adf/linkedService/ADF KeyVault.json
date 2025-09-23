@@ -1,0 +1,10 @@
+{
+	"name": "ADF KeyVault",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://p28-7analytics-KeyVault.vault.azure.net/"
+		}
+	}
+}
